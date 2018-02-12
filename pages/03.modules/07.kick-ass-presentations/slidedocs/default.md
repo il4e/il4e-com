@@ -1,0 +1,5 @@
+---
+title: 'Slidedocs'
+---
+
+BOOM
